@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeliveryService/DeliveryService.csproj" />
+  <Project Path="EaatSystem/EaatSystem.csproj" />
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="RestaurantService/RestaurantService.csproj" />
+</Solution>
